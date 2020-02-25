@@ -19,9 +19,11 @@
 	<key>CFBundleVersion</key>
 	<string>1</string>
 	<key>DJISDKAppKey</key>
-	<string>enter your key here</string>
+	<string>332d404c7b26a05e4e8ae1bf</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Bluetooth always usage desc: used to connect to drone?</string>
 	<key>NSBluetoothPeripheralUsageDescription</key>
 	<string>Used for remote control</string>
 	<key>NSCameraUsageDescription</key>
