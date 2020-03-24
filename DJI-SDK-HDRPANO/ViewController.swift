@@ -1,10 +1,10 @@
 //
 //  ViewController.swift
+//
 //  DJI-SDK-HDRPANO
-//
-//  Created by Kilian Eisenegger on 07.08.19.
-//  Copyright © 2019 Kilian Eisenegger. All rights reserved.
-//
+//  University of Houston, ECE department, Senior Design Team 19
+//  Adopted from HDRPANO framework and DJI's frameworks
+
 
 import UIKit
 import DJIUXSDK
